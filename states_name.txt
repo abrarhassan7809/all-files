@@ -1,0 +1,9 @@
+state,x,y
+Alabama,-196, 181
+Alaska,136, 182
+Arizona,140, 21
+Arkansas,-32, 68
+California,159, -201
+Colorado,-16, -28
+Connecticut,4, 202
+Delaware,-185, -10
